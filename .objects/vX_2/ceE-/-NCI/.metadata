@@ -1,0 +1,14 @@
+﻿{
+  "Id": "-NCIEVpXSU202ISDe9fEqg",
+  "Reference": "3-A6wpJgF0uif3TK8H6HtA/-NCIEVpXSU202ISDe9fEqg",
+  "ParentRef": "3-A6wpJgF0uif3TK8H6HtA/ceE-6b1tt0uuP0eEJkBY1Q",
+  "Name": "Chrome Busca CEP",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-10-13T12:13:48.0513447Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-13T12:13:48.0513447Z"
+}

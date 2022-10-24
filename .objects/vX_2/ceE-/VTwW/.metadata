@@ -1,0 +1,14 @@
+﻿{
+  "Id": "VTwWMxK2t0y0BPBxhlREgw",
+  "Reference": "3-A6wpJgF0uif3TK8H6HtA/VTwWMxK2t0y0BPBxhlREgw",
+  "ParentRef": "3-A6wpJgF0uif3TK8H6HtA/ceE-6b1tt0uuP0eEJkBY1Q",
+  "Name": "Chrome httpscidades.ibge.gov.br",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-10-13T17:41:44.300546Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-13T17:41:44.300546Z"
+}

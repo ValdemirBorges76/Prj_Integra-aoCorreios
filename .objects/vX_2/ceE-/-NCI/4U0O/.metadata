@@ -1,0 +1,17 @@
+﻿{
+  "Id": "4U0OFivULU2kaqnz0Y0BRA",
+  "Reference": "3-A6wpJgF0uif3TK8H6HtA/4U0OFivULU2kaqnz0Y0BRA",
+  "ParentRef": "3-A6wpJgF0uif3TK8H6HtA/-NCIEVpXSU202ISDe9fEqg",
+  "Name": "Click Cidades",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-10-14T12:40:17.2408925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-10-14T14:23:34.6548716Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
